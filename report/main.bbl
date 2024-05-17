@@ -1,0 +1,118 @@
+\begin{thebibliography}{10}
+
+\bibitem{an2022semi}
+Shunmin An, Xixia Huang, Le~Wang, Linling Wang, and Zhangjing Zheng.
+\newblock Semi-supervised image dehazing network.
+\newblock {\em The Visual Computer}, 38(6):2041--2055, 2022.
+
+\bibitem{ancuti2018haze}
+Codruta~O Ancuti, Cosmin Ancuti, Radu Timofte, and Christophe De~Vleeschouwer.
+\newblock O-haze: a dehazing benchmark with real hazy and haze-free outdoor images.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and pattern recognition workshops}, pages 754--762, 2018.
+
+\bibitem{cai2016dehazenet}
+Bolun Cai, Xiangmin Xu, Kui Jia, Chunmei Qing, and Dacheng Tao.
+\newblock Dehazenet: An end-to-end system for single image haze removal.
+\newblock {\em IEEE transactions on image processing}, 25(11):5187--5198, 2016.
+
+\bibitem{chen2017improved}
+Gaoke CHEN, Yan YANG, and Baoshan ZHANG.
+\newblock Improved dark channel prior dehazing algorithm combined with atmospheric light and transmission.
+\newblock {\em Journal of Computer Applications}, 37(5):1481, 2017.
+
+\bibitem{chen2021psd}
+Zeyuan Chen, Yangchao Wang, Yang Yang, and Dong Liu.
+\newblock Psd: Principled synthetic-to-real dehazing guided by physical priors.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pages 7180--7189, 2021.
+
+\bibitem{cong2020discrete}
+Xiaofeng Cong, Jie Gui, Kai-Chao Miao, Jun Zhang, Bing Wang, and Peng Chen.
+\newblock Discrete haze level dehazing network.
+\newblock In {\em Proceedings of the 28th ACM International Conference on Multimedia}, pages 1828--1836, 2020.
+
+\bibitem{creswell2018generative}
+Antonia Creswell, Tom White, Vincent Dumoulin, Kai Arulkumaran, Biswa Sengupta, and Anil~A Bharath.
+\newblock Generative adversarial networks: An overview.
+\newblock {\em IEEE signal processing magazine}, 35(1):53--65, 2018.
+
+\bibitem{deng2019deep}
+Zijun Deng, Lei Zhu, Xiaowei Hu, Chi-Wing Fu, Xuemiao Xu, Qing Zhang, Jing Qin, and Pheng-Ann Heng.
+\newblock Deep multi-model fusion for single-image dehazing.
+\newblock In {\em Proceedings of the IEEE/CVF international conference on computer vision}, pages 2453--2462, 2019.
+
+\bibitem{he2010single}
+Kaiming He, Jian Sun, and Xiaoou Tang.
+\newblock Single image haze removal using dark channel prior.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence}, 33(12):2341--2353, 2010.
+
+\bibitem{jiang2020image}
+Zuyun Jiang, Xiangdong Sun, and Xiaochun Wang.
+\newblock Image defogging algorithm based on sky region segmentation and dark channel prior.
+\newblock {\em Journal of Systems Science and Information}, 8(5):476--486, 2020.
+
+\bibitem{jobson1997properties}
+Daniel~J Jobson, Zia-ur Rahman, and Glenn~A Woodell.
+\newblock Properties and performance of a center/surround retinex.
+\newblock {\em IEEE transactions on image processing}, 6(3):451--462, 1997.
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in neural information processing systems}, 25, 2012.
+
+\bibitem{land1965retinex}
+Edwin~H Land.
+\newblock The retinex.
+\newblock In {\em Ciba Foundation Symposium-Colour Vision: Physiology and Experimental Psychology}, pages 217--227. Wiley Online Library, 1965.
+
+\bibitem{li2018benchmarking}
+Boyi Li, Wenqi Ren, Dengpan Fu, Dacheng Tao, Dan Feng, Wenjun Zeng, and Zhangyang Wang.
+\newblock Benchmarking single-image dehazing and beyond.
+\newblock {\em IEEE Transactions on Image Processing}, 28(1):492--505, 2018.
+
+\bibitem{li2020zero}
+Boyun Li, Yuanbiao Gou, Jerry~Zitao Liu, Hongyuan Zhu, Joey~Tianyi Zhou, and Xi~Peng.
+\newblock Zero-shot image dehazing.
+\newblock {\em IEEE Transactions on Image Processing}, 29:8457--8466, 2020.
+
+\bibitem{liang2019selective}
+Xiao Liang, Runde Li, and Jinhui Tang.
+\newblock Selective attention network for image dehazing and deraining.
+\newblock In {\em Proceedings of the 1st ACM International Conference on Multimedia in Asia}, pages 1--6, 2019.
+
+\bibitem{liu2019griddehazenet}
+Xiaohong Liu, Yongrui Ma, Zhihao Shi, and Jun Chen.
+\newblock Griddehazenet: Attention-based multi-scale network for image dehazing.
+\newblock In {\em Proceedings of the IEEE/CVF international conference on computer vision}, pages 7314--7323, 2019.
+
+\bibitem{mccartney1976optics}
+Earl~J McCartney.
+\newblock Optics of the atmosphere: scattering by molecules and particles.
+\newblock {\em New York}, 1976.
+
+\bibitem{narasimhan2002vision}
+Srinivasa~G Narasimhan and Shree~K Nayar.
+\newblock Vision and the atmosphere.
+\newblock {\em International journal of computer vision}, 48:233--254, 2002.
+
+\bibitem{qu2019enhanced}
+Yanyun Qu, Yizi Chen, Jingying Huang, and Yuan Xie.
+\newblock Enhanced pix2pix dehazing network.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pages 8160--8168, 2019.
+
+\bibitem{singh2019single}
+Dilbag Singh and Vijay Kumar.
+\newblock Single image defogging by gain gradient image filter.
+\newblock {\em Science China. Information Sciences}, 62(7):79101, 2019.
+
+\bibitem{yang2023docdiff}
+Zongyuan Yang, Baolin Liu, Yongping Xxiong, Lan Yi, Guibin Wu, Xiaojun Tang, Ziqi Liu, Junjie Zhou, and Xing Zhang.
+\newblock Docdiff: Document enhancement via residual diffusion models.
+\newblock In {\em Proceedings of the 31st ACM International Conference on Multimedia}, pages 2795--2806, 2023.
+
+\bibitem{zhang2017hazerd}
+Yanfu Zhang, Li~Ding, and Gaurav Sharma.
+\newblock Hazerd: an outdoor scene dataset and benchmark for single image dehazing.
+\newblock In {\em 2017 IEEE international conference on image processing (ICIP)}, pages 3205--3209. IEEE, 2017.
+
+\end{thebibliography}
