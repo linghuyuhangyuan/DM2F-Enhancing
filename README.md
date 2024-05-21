@@ -25,15 +25,16 @@ pip install -r requirements.txt
 ## Data Preparation
 - [HazeRD](https://labsites.rochester.edu/gsharma/research/computer-vision/hazerd/)
 - [OHaze](https://data.vision.ee.ethz.ch/cvl/ntire18//o-haze/)
+
 Please put them in the `data` directory.
 
 ## Pretrained model
-Download pretrained model from [Google Drive]() and place them in the `ckpts` directory.
+Download pretrained model from [Google Drive](https://drive.google.com/drive/folders/1YethsBHO103rDu_7wDJDlcisshxzg216?usp=sharing) and place them in the `ckpts` directory.
 
 ## Training
 ```
 python train_alg1.py --gpus 0 \
-    --load-dm2f ckpts/O-Haze/iter_20000_loss_0.04937_lr_0.000000.pth \
+    --load-dm2f ckpts/ckpt/O-Haze/iter_20000_loss_0.04937_lr_0.000000.pth \
     --ckpt-path ckpts/ckpt_alg1
 ```
 Before training algorithm 1, assume that pretrained model has been put in the `ckpts` directory.
