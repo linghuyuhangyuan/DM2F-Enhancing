@@ -1,6 +1,6 @@
 # DM2F-Enhancing
 Final Dehazing Project of Digital Image Processing (COMP130032): 
-    Improvemnt of [DM2F-Net](https://github.com/zijundeng/DM2F-Net).
+    Improvement of [DM2F-Net](https://github.com/zijundeng/DM2F-Net).
 
 <div style="text-align:center">
     <img src="assets/top_pic.jpg" alt="image" />
